@@ -1,0 +1,6 @@
+a=float(input("enter value of a :"))
+b=float(input("enter value of b :"))
+c=((a+b)/2)
+print("average of 2 numbers is",c)
+float(c)
+print(c)
