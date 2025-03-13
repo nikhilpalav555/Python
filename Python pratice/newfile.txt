@@ -1,0 +1,4 @@
+hello this is a file type
+we will read this file line by line
+we will get to know file function 
+we will learn lot about it 
