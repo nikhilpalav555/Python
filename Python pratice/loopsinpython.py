@@ -51,8 +51,8 @@
 
 
 
-for i in range (0,4):
-    print(i)
+# for i in range (0,4):
+#     print(i)
 
 
 
@@ -67,9 +67,45 @@ for i in range (0,4):
 
 
 
+
+# i=0
+
+# while (i<10):
+#     print("nikhil")
+#     i+=1
+
+
+l=[1,2,3,4,5,6,8,8]
+
+# for i in range(0,len(l)):
+#     print(l[i])
+#     i+=1
+
+# for iterator in l:
+#     print(iterator)
+
+
+
+# i=0
+
+# while i<10:
+#     i+=1
+#     if i==3:
+#         continue
+#     if i==6:
+#         break
+
+#     print(i)
+
+
+
+
+my_list=["Monday","Tuesday","Wenesday","Thurdsay","Friday"]
 
 i=0
 
-while (i<10):
-    print("nikhil")
-    i+=1
+while (i<3):
+        i+=1
+        print(((my_list[i])))
+        break
+        
